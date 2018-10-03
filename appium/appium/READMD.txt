@@ -1,0 +1,5 @@
+1 Need to install the JDK
+2. Install Nodejs and the in commandPrompt type and enter the following command
+	npm install -g appium
+3. Install Android SDK with Versions
+4 Then just import into the eclipse and execute the Android file with Junit
